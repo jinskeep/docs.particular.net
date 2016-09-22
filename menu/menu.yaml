@@ -625,8 +625,6 @@
         Title: Disconnect Workers
       - Url: nservicebus/scalability-and-ha/distributor/publish-subscribe
         Title: Distributor and Publish-Subscribe
-      - Url: nservicebus/scalability-and-ha/distributor/upgrading-the-distributor
-        Title: Upgrading the Distributor and Workers
       - Url: nservicebus/scalability-and-ha/distributor/error-handling
         Title: Distributor error handling
 - Name: ServiceInsight
@@ -656,11 +654,11 @@
     - Url: servicepulse/intro-archived-messages
       Title: Archived Message Management
     - Url: servicepulse/intro-pending-retries
-      Title: Pending Retries Message Management 
+      Title: Pending Retries Message Management
     - Url: servicepulse/intro-endpoints-custom-checks
       Title: Custom Check Monitoring
     - Url: servicepulse/redirect
-      Title: Redirects 
+      Title: Redirects
     - Url: servicepulse/event-types
       Title: Events
   - Title: Configuration
